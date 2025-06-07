@@ -135,30 +135,11 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! My name is Brittany and I enjoy creating things that live on the internet. My
-              interest in web development started back in 2012 when I decided to try editing custom
-              Tumblr themes — turns out hacking together a custom reblog button taught me a lot
-              about HTML &amp; CSS!
-            </p>
-
-            <p>
-              Fast-forward to today, and I’ve had the privilege of working at{' '}
-              <a href="https://us.mullenlowe.com/">an advertising agency</a>,{' '}
-              <a href="https://starry.com/">a start-up</a>,{' '}
-              <a href="https://www.apple.com/">a huge corporation</a>, and{' '}
-              <a href="https://scout.camd.northeastern.edu/">a student-led design studio</a>. My
-              main focus these days is building accessible, inclusive products and digital
-              experiences at <a href="https://upstatement.com/">Upstatement</a> for a variety of
-              clients.
-            </p>
-
-            <p>
-              I also recently{' '}
-              <a href="https://www.newline.co/courses/build-a-spotify-connected-app">
-                launched a course
-              </a>{' '}
-              that covers everything you need to build a web app with the Spotify API using Node
-              &amp; React.
+              I’m a passionate and driven data professional currently working as a Business Intelligence and Strategy Analyst with Houston Dynamo FC. I thrive in environments where analytics and strategy intersect, especially within the sports industry. My work ranges from CRM administration and dashboard development to creating innovative scoring models that help drive smarter decision-making and elevate fan experiences.
+            </br>
+              My background includes a Master’s in Information Science from Indiana University, where I also completed a B.S. in Informatics. Throughout my academic and professional journey, I've consistently pursued excellence, earning scholarships, academic honors, and valuable real-world experience through roles with organizations like Pacers Sports & Entertainment. Whether it's Salesforce, SQL, Tableau, or Python, I’m always eager to build, explore, and apply tools that transform raw data into impactful insights.
+            </br>
+              Above all, I’m committed to continuous growth. Every challenge is an opportunity to learn something new, expand my perspective, and make a bigger impact. Whether it’s diving deeper into data science, optimizing CRM ecosystems, or leading collaborative projects, I’m always seeking ways to grow both personally and professionally.
             </p>
 
             <p>Here are a few technologies I’ve been working with recently:</p>
